@@ -77,6 +77,7 @@ b {
   transform: translateX(-50%);
   left: 50%;
   position: absolute;
+  top: 5px;
 }
 
 .navbar-brand .mobile {
