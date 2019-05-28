@@ -161,7 +161,7 @@ b {
 	height: 100%;
 	margin: auto;
 	width: 50%;
-	padding-top: 18em; 
+	padding-top: 22em; 
 }
 
 .header-content {
@@ -525,6 +525,7 @@ footer .fab:hover {
 	.header-caption {
 	  	margin: auto !important;
 	  	width: 80%;
+	  	padding-top: 14em;
 	}
 
 	.header-title {
