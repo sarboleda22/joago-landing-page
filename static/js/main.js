@@ -8,7 +8,7 @@ $(window).scroll(function() {
   else {
     $('.navbar').removeClass("navbar-custom");
     $('#desktop-logo').attr('src','static/images/logo-white.png');
-    $('#desktop-logo').attr('height','200');    
+    $('#desktop-logo').attr('height','180');    
     $('#desktop-logo').attr('style','margin-top:4em');    
   }
 });
